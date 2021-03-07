@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  background-color: lightyellow;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#featured-property {
+  text-align: center;
+  margin:auto
+  
+}
+
+#featured-property p {
+  text-align: center;
+ 
+}
+
+#details {
+  background-color: maroon;
+  float:left
+}
+
+
+
+#details div {
+  float:left
+  color:red
+  
+}
