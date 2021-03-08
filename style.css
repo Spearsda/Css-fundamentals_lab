@@ -23,19 +23,20 @@ section {
   text-align: center;
 }
 
-
-#details div {
-  float:left
-}
-
-#featured-property p {
-  width: 800px;
-  text-align: center;
-  
+img {
+  width:75%;
 }
 
 body div {
   text-align: center;
   background-color: red;
-  width:25%
+  width:25%;
+  float: left;
+}
+
+section p {
+  text-align: center;
+  margin-left: 19%;
+  margin-right: 19%;
+
 }
